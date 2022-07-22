@@ -7,11 +7,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="badges">
-  <a href="https://www.linkedin.com/in/ritesh-shete-038416230">
+  <a href="https://www.linkedin.com/in/ritesh-shete-038416230" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
-  <a href="https://twitter.com/RITESHSHETE6?t=_XsNhuavdMOS_07sqM3-Sg&s=09">
+  <a href="https://twitter.com/RITESHSHETE6?t=_XsNhuavdMOS_07sqM3-Sg&s=09" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
