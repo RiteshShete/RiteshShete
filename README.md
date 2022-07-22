@@ -7,7 +7,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/ritesh-shete-038416230">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   
