@@ -17,9 +17,10 @@
 
 - 👋 Hi, I’m @RiteshShete
 - 👀 I’m interested in Coding, Designing and Photography
+- 💪 I,m a fitness freak!
 - 🌱 I’m currently learning UI designing
 - 💞️ I’m looking to collaborate on UI projects
-- 📫 How to reach me Linkedin Twitter
+- 📫 You can reach me on Linkedin Twitter..
 
 ### :hammer_and_wrench: Languages and Tools :
  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
